@@ -5,3 +5,5 @@
 [LinkedIn](https://www.linkedin.com/in/a-zinchenko/)
 
 Email: anna.s.zinchenko@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greyear&layout=compact)](https://github.com/greyear/github-readme-stats)
